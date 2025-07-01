@@ -58,7 +58,7 @@ Looking to promote decentralization visually?
 - ✅ [Banner Images](assets/banner/)
 - ✅ [Mascot: Andrew Character](assets/mascot/)
 - ✅ [Logos & Icons](assets/logos/)
-- 📦 [How to embed our validator widget](tools/metrics-widget.md)
+- 📦  [How to embed our validator widget](tools/metrics-widget.md)
 
 ---
 
