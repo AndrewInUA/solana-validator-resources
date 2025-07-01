@@ -68,6 +68,6 @@ You can embed a public-facing validator widget showing your node’s live stats.
 ## 🙌 Help the Ecosystem
 
 If you’ve built a tool, dashboard, or alert system — share it here!  
-We welcome contributions to this guide.
+You are welcome to contribute to this guide.
 
 > Reliable validators are the backbone of decentralization. Monitor early, monitor often.
