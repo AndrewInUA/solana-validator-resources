@@ -20,11 +20,11 @@ Whether you're staking for the first time or running your own node — this repo
 
 | Section | Description |
 |--------|-------------|
-| [Getting Started](#getting-started) | Basic guides for new delegators |
-| [Validator Guides](#validator-guides) | Tutorials and infra tips for validator operators |
-| [Community Assets](#community-assets) | Logos, banners, and the Andrew mascot |
-| [Contributing](#contributing) | How to help expand this repo |
-| [License](#license) | Open-source licensing info |
+| [Getting Started](guides/how-to-stake.md) | Basic guides for new delegators |
+| [Validator Guides](guides/basic-validator-setup.md) | Tutorials and infra tips for validator operators |
+| [Community Assets](assets/banner/) | Logos, banners, and the Andrew mascot |
+| [Contributing](CONTRIBUTING.md) | How to help expand this repo |
+| [License](LICENSE) | Open-source licensing info |
 
 ---
 
