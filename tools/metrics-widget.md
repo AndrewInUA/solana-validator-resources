@@ -17,7 +17,8 @@ This lightweight HTML widget displays live stats from the **AndrewInUA** Solana 
 
 ![Widget Screenshot](https://raw.githubusercontent.com/AndrewInUA/solana-validator-resources/main/assets/banner/validator-widget-preview.png)
 
-> 📸 This is how the AndrewInUA validator widget looks when embedded.
+> 📸 This is how the [AndrewInUA validator widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget)
+ looks when embedded.
 
 ---
 
