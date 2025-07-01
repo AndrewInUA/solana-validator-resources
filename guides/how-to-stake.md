@@ -42,7 +42,7 @@ In your wallet, look for **“Staking”**, **“Stake accounts”**, or **“St
 Search for `AndrewInUA`  
 Or click here to [stake directly](https://andrewinua.com/#stake)
 
-- Check uptime, commission, and region (🇺🇦)
+- Check uptime, commission, etc.
 - Hit “Delegate” or “Stake”
 
 ---
