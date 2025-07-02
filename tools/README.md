@@ -1,35 +1,51 @@
-# 🛠 Tools & Dashboards for Validators
+# 🛠 Validator Tools & Resources
 
-Welcome to the validator tools section of this repository.  
-Here you'll find custom-built and community-recommended tools for monitoring, automating, and showcasing validator performance.
+This folder includes tools, widgets, and automation helpers to support Solana validators and ecosystem contributors.
+
+All tools are open-source and designed to be easy to implement.
 
 ---
 
-## 🔍 Contents
+## 📦 Available Tools
 
 | Tool | Description |
 |------|-------------|
-| [Metrics Widget](metrics-widget.md) | An embeddable HTML widget showing live validator stats |
+| [Validator Metrics Widget](metrics-widget.md) | A visual widget to show performance stats |
+| [Vault Invoices Checker](https://github.com/AndrewInUA/vault-invoices-checker) | Tool to check Vault stake invoices |
+| Useful Scripts (Coming Soon) | Bash snippets and helper scripts for node operators |
 
 ---
 
-## 📊 Metrics Widget
+## 🧩 Validator Metrics Widget
 
-A lightweight, open-source HTML widget built by [AndrewInUA](https://github.com/AndrewInUA) to help validators:
+> A lightweight HTML widget to display epoch data, vote credits, commission, and more — embedded into any validator’s website.
 
-- ✅ Display performance data in real time
-- 🌐 Embed on personal websites
-- 💡 Be transparent with delegators
+📘 Guide: [How to use it](metrics-widget.md)  
+📂 Repo: [solana-validator-metrics-html-widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget)
 
-📘 Full Guide: [Metrics Widget](metrics-widget.md)  
-🔗 GitHub Repo: [solana-validator-metrics-html-widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget)
+![Widget Preview](https://raw.githubusercontent.com/AndrewInUA/solana-validator-resources/main/assets/banner/validator-widget-preview.png)
 
-![Widget Screenshot](https://raw.githubusercontent.com/AndrewInUA/solana-validator-resources/main/assets/banner/validator-widget-preview.png)
+---
+
+## 📁 Vault Invoices Checker
+
+> A utility that helps Vault applicants verify their invoice lists with clarity and speed.
+
+🔍 Checks invoice records by address  
+📥 Outputs results in a clean format  
+🛠 Written in Python — no advanced setup required
+
+📂 Repo: [vault-invoices-checker](https://github.com/AndrewInUA/vault-invoices-checker)
+
+![Vault Checker Preview](https://raw.githubusercontent.com/AndrewInUA/vault-invoices-checker/main/vault-invoices-checker-demo.jpg)
 
 ---
 
 ## 🤝 Want to Add a Tool?
 
-If you've built a tool or script useful to Solana validators, feel free to [contribute](../CONTRIBUTING.md)!
+If you’ve built something useful for Solana validators, feel free to [contribute](../CONTRIBUTING.md)!  
+You don’t have to be a developer — even small scripts or ideas are welcome.
 
+---
 
+> Maintained by [AndrewInUA](https://andrewinua.com) — Reliable. Transparent. Ukrainian. 🇺🇦
