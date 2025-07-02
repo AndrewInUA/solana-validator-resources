@@ -1,6 +1,25 @@
 # solana-validator-resources
 # 📚 Solana Validator Resources by AndrewInUA
 
+<p align="center">
+  <a href="https://github.com/AndrewInUA/solana-validator-resources/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AndrewInUA/solana-validator-resources?style=flat-square&color=4CAF50"/>
+  </a>&nbsp;
+  <a href="https://github.com/AndrewInUA/solana-validator-resources/network">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/AndrewInUA/solana-validator-resources?style=flat-square&color=2196F3"/>
+  </a>&nbsp;
+  <a href="https://github.com/AndrewInUA/solana-validator-resources/blob/main/LICENSE">
+    <img alt="MIT License" src="https://img.shields.io/github/license/AndrewInUA/solana-validator-resources?style=flat-square&color=orange"/>
+  </a>&nbsp;
+  <a href="https://andrewinua.com">
+    <img alt="Website" src="https://img.shields.io/badge/Website-andrewinua.com-blue?style=flat-square"/>
+  </a>&nbsp;
+  <a href="https://andrewinua.com/#stake">
+    <img alt="Stake to AndrewInUA" src="https://img.shields.io/badge/Stake%20Now-AndrewInUA-8e44ad?style=flat-square"/>
+  </a>&nbsp;
+  <img alt="Ukrainian Validator" src="https://img.shields.io/badge/Made%20in-Ukraine-yellowgreen?style=flat-square"/>
+</p>
+
 Welcome to the open knowledge hub for validators, delegators, and Solana ecosystem supporters — built and curated by **AndrewInUA** 🇺🇦
 
 ---
