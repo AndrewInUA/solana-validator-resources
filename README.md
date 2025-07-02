@@ -52,14 +52,14 @@ Running a node or considering it? Start here:
 ---
 
 ## 🎨 Community Assets
+These are official visuals used across AndrewInUA projects.
+Feel free to reference or remix them to support validator education and decentralization.
 
-Looking to promote decentralization visually?
-
-- ✅ [Banner Images](assets/banner/)
-- ✅ [Mascot: Andrew Character](assets/mascot/)
-- ✅ [Logos & Icons](assets/logos/)
-- 📦  [How to embed our validator widget](tools/metrics-widget.md)
-
+| Asset              | Preview                                                                                                                 | Download                                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Banner**         | ![Banner](https://raw.githubusercontent.com/AndrewInUA/solana-validator-resources/main/assets/banner/andrew-banner.png) | [Download](https://github.com/AndrewInUA/solana-validator-resources/blob/main/assets/banner/andrew-banner.png) |
+| **Mascot: Andrew** | ![Mascot](https://raw.githubusercontent.com/AndrewInUA/solana-validator-resources/main/assets/mascot/andrew-mascot.png) | [Download](https://github.com/AndrewInUA/solana-validator-resources/blob/main/assets/mascot/andrew-mascot.png) |
+| **Validator Logo** | <p align="center"><img src="https://raw.githubusercontent.com/AndrewInUA/solana-validator-resources/main/assets/logos/validator-logo.png" width="160"/></p> | [Download](https://github.com/AndrewInUA/solana-validator-resources/blob/main/assets/logos/validator-logo.png) |
 ---
 
 ## 🤝 Contributing
