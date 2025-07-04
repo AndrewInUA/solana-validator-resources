@@ -1,4 +1,4 @@
-# solana-validator-resources 
+# solana-validator-resources
 # 📚 Solana Validator Resources by AndrewInUA
 
 <p align="center">
