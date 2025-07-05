@@ -1,24 +1,13 @@
 # solana-validator-resources
 # 📚 Solana Validator Resources by AndrewInUA
 
-<p align="center">
-  <a href="https://github.com/AndrewInUA/solana-validator-resources/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AndrewInUA/solana-validator-resources?style=flat-square&color=4CAF50"/>
-  </a>&nbsp;
-  <a href="https://github.com/AndrewInUA/solana-validator-resources/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/AndrewInUA/solana-validator-resources?style=flat-square&color=2196F3"/>
-  </a>&nbsp;
-  <a href="https://github.com/AndrewInUA/solana-validator-resources/blob/main/LICENSE">
-    <img alt="MIT License" src="https://img.shields.io/github/license/AndrewInUA/solana-validator-resources?style=flat-square&color=orange"/>
-  </a>&nbsp;
-  <a href="https://andrewinua.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-andrewinua.com-blue?style=flat-square"/>
-  </a>&nbsp;
-  <a href="https://andrewinua.com/#stake">
-    <img alt="Stake to AndrewInUA" src="https://img.shields.io/badge/Stake%20Now-AndrewInUA-8e44ad?style=flat-square"/>
-  </a>&nbsp;
-  <img alt="Ukrainian Validator" src="https://img.shields.io/badge/Made%20in-Ukraine-yellowgreen?style=flat-square"/>
-</p>
+[![Stake with AndrewInUA](https://img.shields.io/badge/Stake%20Now-Solana-brightgreen?style=for-the-badge&logo=solana)](https://andrewinua.com/#delegate)
+[![Validator Website](https://img.shields.io/badge/Visit%20Website-AndrewInUA.com-007acc?style=for-the-badge)](https://andrewinua.com)
+[![Validator Widget](https://img.shields.io/badge/Metrics%20Widget-Explore-purple?style=for-the-badge)](https://github.com/AndrewInUA/solana-validator-metrics-html-widget)
+[![Vault Checker](https://img.shields.io/badge/Vault%20Checker-Check%20Invoices-blue?style=for-the-badge)](https://github.com/AndrewInUA/vault-invoices-checker)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/AndrewInUA/solana-validator-resources/blob/main/LICENSE)
+[![Telegram Chat](https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram)](https://t.me/AndrewInUA)
+
 
 Welcome to the open knowledge hub for validators, delegators, and Solana ecosystem supporters — built and curated by **AndrewInUA** 🇺🇦
 
