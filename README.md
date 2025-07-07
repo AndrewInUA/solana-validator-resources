@@ -15,7 +15,7 @@ Welcome to the open knowledge hub for validators, delegators, and Solana ecosyst
 
 ## 🎯 Purpose
 
-This repository exists to: 
+This repository exists to:
 - 📖 Provide clear guides for new stakers and validators
 - 🛠 Share helpful tools, dashboards, and scripts
 - 🤝 Promote best practices for decentralization, uptime, and transparency
