@@ -1,4 +1,4 @@
-# 🎨 Visual Assets & Branding 
+# 🎨 Visual Assets & Branding  
 
 This folder contains official visuals used by [AndrewInUA](https://andrewinua.com) — banners, logos, and mascot character.  
 Feel free to use them for educational, promotional, or community-facing purposes with attribution.
