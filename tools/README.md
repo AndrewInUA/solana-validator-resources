@@ -1,4 +1,4 @@
-# 🛠 Validator Tools & Resources
+# 🛠 Validator Tools & Resources 
 
 This folder includes tools, widgets, and automation helpers to support Solana validators and ecosystem contributors.
 
