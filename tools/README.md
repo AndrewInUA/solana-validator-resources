@@ -6,7 +6,7 @@ All tools are open-source and designed to be easy to implement.
 
 ---
 
-## 📦 Available Tools 
+## 📦 Available Tools
 
 | Tool | Description |
 |------|-------------|
