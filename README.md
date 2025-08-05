@@ -1,5 +1,5 @@
 # solana-validator-resources
-# 📚 Solana Validator Resources by AndrewInUA 
+# 📚 Solana Validator Resources by AndrewInUA
 
 [![Stake with AndrewInUA](https://img.shields.io/badge/Stake%20Now-Solana-brightgreen?style=for-the-badge&logo=solana)](https://andrewinua.com/#delegate)
 [![Validator Website](https://img.shields.io/badge/Visit%20Website-AndrewInUA.com-007acc?style=for-the-badge)](https://andrewinua.com)
