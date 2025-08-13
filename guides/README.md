@@ -1,4 +1,4 @@
-# 📖 Guides for Delegators & Validators 
+# 📖 Guides for Delegators & Validators
 
 This folder contains educational materials and walk-throughs for both new stakers and aspiring validator operators in the Solana ecosystem.
 
