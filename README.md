@@ -13,7 +13,7 @@ Welcome to the open knowledge hub for validators, delegators, and Solana ecosyst
 
 ---
 
-## 🎯 Purpose
+## 🎯 Purpose   
 
 This repository exists to:
 - 📖 Provide clear guides for new stakers and validators
