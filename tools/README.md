@@ -31,7 +31,7 @@ All tools are open-source and designed to be easy to implement.
 
 > A utility that helps Vault applicants verify their invoice lists with clarity and speed.
 
-🔍 Checks invoice records by address  
+🔍 Checks invoice records by address
 📥 Outputs results in a clean format  
 🛠 Written in Python — no advanced setup required
 
